@@ -64,7 +64,7 @@ Access the Waste Tracker to monitor and analyze your waste generation and dispos
 
 Stay tuned for future updates, including a scheduled waste pickup feature with map integration.
 
-Screenshots
+## Screenshots
  screenshots of the iWaste app ⬇️
 ![mobile (5)](https://github.com/chuzzy888/IWASTE/assets/125953878/e6c5bed0-9eed-4419-8fcf-c3d0e16ed628)
 ![mobile (6)](https://github.com/chuzzy888/IWASTE/assets/125953878/102a26a7-7a66-49aa-88bc-dc541a8035bf)
@@ -73,7 +73,10 @@ Screenshots
 ![mobile (9)](https://github.com/chuzzy888/IWASTE/assets/125953878/c8dd7a9e-6e95-4d21-9f73-4399b3f9f86d)
 ![mobile (10)](https://github.com/chuzzy888/IWASTE/assets/125953878/f30e5c54-aca9-4ad6-b592-5caafe7f3ab7)
 
-Contact 📱
+## Pitch Deck📖
+https://www.canva.com/design/DAFxth87f6s/iYsdkPSpMh6UDzdXA8cQiQ/edit?utm_content=DAFxth87f6s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+## Contact 📱
 ## AUTHOR
 ## OKPALA CHIZU PRAISE👨‍🦲
 Email: chizupraise31@email.com
