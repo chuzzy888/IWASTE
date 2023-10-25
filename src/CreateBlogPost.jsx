@@ -37,7 +37,7 @@ const CreateBlogPost = () => {
 
   return (
     <div className="create-blog-post mt-5" >
-      <h2 style={{fontFamily:"cursive", fontWeight:"900"}}> <span style={{color:"green", fontWeight:"900"}}>Create</span> "Blog for a Better Planet"</h2>
+      <h2 style={{fontFamily:"cursive", fontWeight:"900"}}> <span style={{color:"green", fontWeight:"900"}}>Create</span> "Blog "</h2>
       <input
         type="text"
         placeholder="Title"

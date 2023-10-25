@@ -165,7 +165,7 @@ const BlogPostList = () => {
 
       <div className='blogs'>
       <div>
-        <h1 className='heading'>  w3lcome To <span style={{color:"green"}}> Environmental <span style={{color:"white"}}>/</span> Sustainability </span> <span style={{color:"orangered"}}>Blog <span style={{color:"whitesmoke"}}>And </span>News</span>..</h1>
+        <h1 className='heading'>  w3lcome To <span style={{color:"orangered"}}>Blog <span style={{color:"whitesmoke"}}>And </span>News</span>..</h1>
       </div>
       
 
